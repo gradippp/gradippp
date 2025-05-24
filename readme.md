@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agradip</h1>
-<h3 align="center">I am just a goofy ahh guy who likes to do music and sometimes nerd about techy stuff.</h3>
+<h3 align="center">Simple guy with simple visions</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gradippp&theme=tokyonight" alt="gradippp" /></a> </p>
 
