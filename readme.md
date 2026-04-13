@@ -1,16 +1,47 @@
-<h1 align="center">Hi 👋, I'm Agradip</h1>
-<h3 align="center">Simple guy with simple visions</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gradippp&theme=tokyonight" alt="gradippp" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/gradippp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gradippp" height="30" width="40" /></a>
-<a href="https://discord.gg/Tnpb4dgKdj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tnpb4dgKdj" height="30" width="40" /></a>
+<h1 align="center">👋 Hi, I'm Agradip</h1>
+<p align="center">
+  <b>Backend-Focused Full Stack Developer</b><br>
+  <i>I swam too fast to the egg once and here I am 😔</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gradippp&theme=tokyonight&show=prs_merged,prs_merged_percentage" alt="gradippp" /></p>
+### 💻 Tech Things I Use
 
+#### **LANGUAGES / FRAMEWORKS**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/ReactJS-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+</p>
+
+#### **DATABASES**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+#### **SYSADMIN STUFF**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=009639" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/gradippp"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:me@agradip.fyi"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/gradippp"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/Tnpb4dgKdj"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
